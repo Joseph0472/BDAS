@@ -3,6 +3,11 @@ This is a big data analytics project. The topic is to investigate the relation b
 
 # Lessons Learned
 
-* The practice of CRISP (Cross-Industry Standard Process) data mining methodology. ![image](https://github.com/Joseph0472/BDAS/blob/master/CRISP-DM_Process_Diagram.png)
+* The practice of CRISP (Cross-Industry Standard Process) data mining methodology. 
+<p align="center">
+  <img src="https://github.com/Joseph0472/BDAS/blob/master/CRISP-DM_Process_Diagram.png">
+</p>
+
 * The use of Python programming in data mining tasks
 * Experience of deploying a series of data analyzing scripts on the cloud (It can be useful when the data workload is high or the data source are stored and processed on the cloud)
+* The use of data visualization tool, Tableau
