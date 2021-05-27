@@ -9,5 +9,5 @@ This is a big data analytics project. The topic is to investigate the relation b
 </p>
 
 * The use of Python programming in data mining tasks
-* Experience of deploying a series of data analyzing scripts on the cloud (It can be useful when the data workload is high or the data source are stored and processed on the cloud)
+* Experience of deploying a series of data analyzing scripts on the cloud (it could be advantageous when the data workload is high, or the data pipeline is operated on the cloud)
 * The use of data visualization tool, Tableau
